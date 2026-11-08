@@ -27,8 +27,8 @@ Depois de baixar os dois arquivos de dados, a pasta do projeto deve ficar assim 
 ```
 tcc_td.py
 dados/
-    investidorestesourodireto.gz
-    projecoes_2024_tab1_idade_simples.xlsx
+    investidorestesourodireto.gz             *
+    projecoes_2024_tab1_idade_simples.xlsx   *
     balanco_serie.csv
     balanco_perfil.csv
 ```
