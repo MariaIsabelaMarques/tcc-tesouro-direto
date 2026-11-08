@@ -53,7 +53,7 @@ python tcc_td.py parte2
 
 - O recorte é de 2002 a 2025: os indicadores consideram apenas investidores que aderiram até 31/12/2025.
 - A situação da conta e a informação de operação nos últimos 12 meses refletem a posição da base (31/03/2026), e não o fim de cada ano.
-- 
+- O código foi escrito com auxílio de ferramenta de inteligência artificial generativa (Claude, da Anthropic), a partir das definições metodológicas do trabalho. 
 
 ## Como citar
 
