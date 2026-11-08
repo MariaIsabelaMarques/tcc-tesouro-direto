@@ -20,6 +20,8 @@ Os dois arquivos abaixo não estão no repositório por causa do tamanho ou por 
 
 Fonte dos arquivos de balanço: Secretaria do Tesouro Nacional, Balanço do Tesouro Direto: https://www.tesourotransparente.gov.br/publicacoes/balanco-do-tesouro-direto-btd
 
+Depois de baixar os dois arquivos de dados, a pasta do projeto deve ficar assim (os itens marcados com * não estão no repositório):
+
 ## Estrutura de pastas
 
 ```
